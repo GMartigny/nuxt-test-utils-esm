@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-test-utils-esm",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "GMartigny",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@nuxt/test-utils": "^0.2.2",
+    "jest": "^27.2.1"
+  },
+  "dependencies": {
+    "nuxt": "^2.15.8"
+  }
+}
