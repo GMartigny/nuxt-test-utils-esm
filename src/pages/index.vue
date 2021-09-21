@@ -7,3 +7,9 @@ export default {
     name: 'Index',
 };
 </script>
+
+<style scoped lang="scss">
+h1 {
+    color: $red;
+}
+</style>
